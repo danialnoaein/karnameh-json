@@ -1,14 +1,143 @@
 {
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
+  "questions": [
+    {
+      "id": 0,
+      "title": "سرویس دوره‌ای خودرو در محل کارنامه شامل چه مواردی می‌شود؟",
+      "text": "",
+      "user": {
+        "name": "",
+        "avatar": "https://mui.com/static/images/avatar/0.jpg"
+      },
+      "created_at": 1696573437,
+      "answersCount": 1
+    },
+    {
+      "id": 1,
+      "title": "سرویس چکاپ شامل چه مواردی است؟",
+      "text": "",
+      "user": {
+        "name": "",
+        "avatar": "https://mui.com/static/images/avatar/0.jpg"
+      },
+      "created_at": 1696573437,
+      "answersCount": 1
+    },
+    {
+      "id": 2,
+      "title": "چقدر طول می‌کشد تا کارشناس در محل شما حضور پیدا کند؟",
+      "text": "",
+      "user": {
+        "name": "",
+        "avatar": "https://mui.com/static/images/avatar/0.jpg"
+      },
+      "created_at": 1696573437,
+      "answersCount": 1
+    },
+    {
+      "id": 3,
+      "title": "کدام خودرو ها شامل این طرح می‌شوند؟",
+      "text": "",
+      "user": {
+        "name": "",
+        "avatar": "https://mui.com/static/images/avatar/0.jpg"
+      },
+      "created_at": 1696573437,
+      "answersCount": 1
+    },
+    {
+      "id": 4,
+      "title": "آیا سرویس تعویض روغن در محل کارنامه باعث ایجاد آلودگی محیطی در محل می‌شود؟",
+      "text": "",
+      "user": {
+        "name": "",
+        "avatar": "https://mui.com/static/images/avatar/0.jpg"
+      },
+      "created_at": 1696573437,
+      "answersCount": 1
+    },
+    {
+      "id": 5,
+      "title": "مدت زمان انجام سرویس تعویض روغن چقدر است؟",
+      "text": "معمولا از زمان حضور کارشناس در محل شما تا اتمام سرویس 40 الی 60 دقیقه زمان لازم است.",
+      "user": {
+        "name": "جاسم",
+        "avatar": "https://mui.com/static/images/avatar/0.jpg"
+      },
+      "created_at": 1696573437
+    }
   ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
-  }
+  "answers": [
+    {
+      "id": 6,
+      "user": {
+        "name": "",
+        "avatar": "https://mui.com/static/images/avatar/5.jpg"
+      },
+      "likes": 1,
+      "text": "کلیه خدمات و سرویس‌های کارنامه شامل 3 ماه یا 1،000 کیلومتر کارکرد ضمانت می‌باشد. این ضمانت‌نامه بعد از اتمام سرویس توسط کارشناس کارنامه به شما ارائه می‌شود.",
+      "dislikes": 2,
+      "created_at": 1696573437,
+      "question": 0
+    },
+    {
+      "id": 6,
+      "user": {
+        "name": "",
+        "avatar": "https://mui.com/static/images/avatar/5.jpg"
+      },
+      "likes": 1,
+      "text": "کلیه خدمات و سرویس‌های کارنامه شامل 3 ماه یا 1،000 کیلومتر کارکرد ضمانت می‌باشد. این ضمانت‌نامه بعد از اتمام سرویس توسط کارشناس کارنامه به شما ارائه می‌شود.",
+      "dislikes": 2,
+      "created_at": 1696573437,
+      "question": 1
+    },
+    {
+      "id": 7,
+      "user": {
+        "name": "",
+        "avatar": "https://mui.com/static/images/avatar/5.jpg"
+      },
+      "likes": 1,
+      "text": "کلیه خدمات و سرویس‌های کارنامه شامل 3 ماه یا 1،000 کیلومتر کارکرد ضمانت می‌باشد. این ضمانت‌نامه بعد از اتمام سرویس توسط کارشناس کارنامه به شما ارائه می‌شود.",
+      "dislikes": 2,
+      "created_at": 1696573437,
+      "question": 2
+    },
+    {
+      "id": 8,
+      "user": {
+        "name": "",
+        "avatar": "https://mui.com/static/images/avatar/5.jpg"
+      },
+      "likes": 1,
+      "text": "کلیه خدمات و سرویس‌های کارنامه شامل 3 ماه یا 1،000 کیلومتر کارکرد ضمانت می‌باشد. این ضمانت‌نامه بعد از اتمام سرویس توسط کارشناس کارنامه به شما ارائه می‌شود.",
+      "dislikes": 2,
+      "created_at": 1696573437,
+      "question": 3
+    },
+    {
+      "id": 9,
+      "user": {
+        "name": "",
+        "avatar": "https://mui.com/static/images/avatar/5.jpg"
+      },
+      "likes": 1,
+      "text": "کلیه خدمات و سرویس‌های کارنامه شامل 3 ماه یا 1،000 کیلومتر کارکرد ضمانت می‌باشد. این ضمانت‌نامه بعد از اتمام سرویس توسط کارشناس کارنامه به شما ارائه می‌شود.",
+      "dislikes": 2,
+      "created_at": 1696573437,
+      "question": 4
+    },
+    {
+      "id": 10,
+      "user": {
+        "name": "",
+        "avatar": "https://mui.com/static/images/avatar/5.jpg"
+      },
+      "likes": 1,
+      "text": "کلیه خدمات و سرویس‌های کارنامه شامل 3 ماه یا 1،000 کیلومتر کارکرد ضمانت می‌باشد. این ضمانت‌نامه بعد از اتمام سرویس توسط کارشناس کارنامه به شما ارائه می‌شود.",
+      "dislikes": 2,
+      "created_at": 1696573437,
+      "question": 5
+    }
+  ]
 }
